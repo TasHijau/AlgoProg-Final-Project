@@ -6,7 +6,10 @@ It is a Python GUI program that allows users to upload CSV files
 and display data using line graphs.
 
 The program helps users understand data more easily by using
-visual graphs instead of text output.
+visual graphs instead of text output. 
+
+Some files are from an earlier CLI version and kept for 
+documentation purposes.
 
 ## How to Run
 1. Make sure Python is installed.
