@@ -1,0 +1,48 @@
+driver,team,nationality,date,points,wins
+Verstappen,Red Bull,Netherlands,2023-03-01,0,0
+Verstappen,Red Bull,Netherlands,2023-03-15,18,1
+Verstappen,Red Bull,Netherlands,2023-04-01,43,2
+Verstappen,Red Bull,Netherlands,2023-04-15,68,3
+Verstappen,Red Bull,Netherlands,2023-05-01,93,4
+Verstappen,Red Bull,Netherlands,2023-05-15,118,5
+Verstappen,Red Bull,Netherlands,2023-06-01,143,6
+
+Perez,Red Bull,Mexico,2023-03-01,0,0
+Perez,Red Bull,Mexico,2023-03-15,10,0
+Perez,Red Bull,Mexico,2023-04-01,28,0
+Perez,Red Bull,Mexico,2023-04-15,46,1
+Perez,Red Bull,Mexico,2023-05-01,64,1
+Perez,Red Bull,Mexico,2023-05-15,82,1
+Perez,Red Bull,Mexico,2023-06-01,100,2
+
+Hamilton,Mercedes,UK,2023-03-01,0,0
+Hamilton,Mercedes,UK,2023-03-15,12,0
+Hamilton,Mercedes,UK,2023-04-01,27,0
+Hamilton,Mercedes,UK,2023-04-15,42,0
+Hamilton,Mercedes,UK,2023-05-01,57,0
+Hamilton,Mercedes,UK,2023-05-15,72,0
+Hamilton,Mercedes,UK,2023-06-01,87,0
+
+Russell,Mercedes,UK,2023-03-01,0,0
+Russell,Mercedes,UK,2023-03-15,8,0
+Russell,Mercedes,UK,2023-04-01,20,0
+Russell,Mercedes,UK,2023-04-15,32,0
+Russell,Mercedes,UK,2023-05-01,44,0
+Russell,Mercedes,UK,2023-05-15,56,0
+Russell,Mercedes,UK,2023-06-01,68,0
+
+Leclerc,Ferrari,Monaco,2023-03-01,0,0
+Leclerc,Ferrari,Monaco,2023-03-15,15,0
+Leclerc,Ferrari,Monaco,2023-04-01,33,0
+Leclerc,Ferrari,Monaco,2023-04-15,51,1
+Leclerc,Ferrari,Monaco,2023-05-01,69,1
+Leclerc,Ferrari,Monaco,2023-05-15,87,1
+Leclerc,Ferrari,Monaco,2023-06-01,105,2
+
+Sainz,Ferrari,Spain,2023-03-01,0,0
+Sainz,Ferrari,Spain,2023-03-15,10,0
+Sainz,Ferrari,Spain,2023-04-01,25,0
+Sainz,Ferrari,Spain,2023-04-15,40,0
+Sainz,Ferrari,Spain,2023-05-01,55,0
+Sainz,Ferrari,Spain,2023-05-15,70,0
+Sainz,Ferrari,Spain,2023-06-01,85,0

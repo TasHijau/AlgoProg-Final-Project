@@ -1,0 +1,66 @@
+country,continent,date,total_cases,total_deaths
+Indonesia,Asia,2020-06-01,26000,1600
+Indonesia,Asia,2020-07-01,56000,2800
+Indonesia,Asia,2020-08-01,108000,5100
+Indonesia,Asia,2020-09-01,180000,7600
+Indonesia,Asia,2020-10-01,290000,10800
+
+Malaysia,Asia,2020-06-01,7800,115
+Malaysia,Asia,2020-07-01,8900,125
+Malaysia,Asia,2020-08-01,9000,128
+Malaysia,Asia,2020-09-01,9500,130
+Malaysia,Asia,2020-10-01,12500,137
+
+Japan,Asia,2020-06-01,16800,890
+Japan,Asia,2020-07-01,35000,1000
+Japan,Asia,2020-08-01,66000,1250
+Japan,Asia,2020-09-01,72000,1350
+Japan,Asia,2020-10-01,89000,1600
+
+Germany,Europe,2020-06-01,182000,8500
+Germany,Europe,2020-07-01,195000,9000
+Germany,Europe,2020-08-01,215000,9300
+Germany,Europe,2020-09-01,245000,9500
+Germany,Europe,2020-10-01,310000,9800
+
+Italy,Europe,2020-06-01,233000,33500
+Italy,Europe,2020-07-01,240000,34800
+Italy,Europe,2020-08-01,250000,35400
+Italy,Europe,2020-09-01,275000,35700
+Italy,Europe,2020-10-01,320000,36200
+
+USA,North America,2020-06-01,1800000,105000
+USA,North America,2020-07-01,2600000,128000
+USA,North America,2020-08-01,4700000,155000
+USA,North America,2020-09-01,6200000,187000
+USA,North America,2020-10-01,7400000,210000
+
+Canada,North America,2020-06-01,91000,7200
+Canada,North America,2020-07-01,104000,8700
+Canada,North America,2020-08-01,118000,9000
+Canada,North America,2020-09-01,132000,9100
+Canada,North America,2020-10-01,160000,9500
+
+Brazil,South America,2020-06-01,514000,29000
+Brazil,South America,2020-07-01,1400000,59000
+Brazil,South America,2020-08-01,2700000,93000
+Brazil,South America,2020-09-01,4000000,124000
+Brazil,South America,2020-10-01,4800000,145000
+
+Argentina,South America,2020-06-01,17000,530
+Argentina,South America,2020-07-01,64000,1300
+Argentina,South America,2020-08-01,185000,3500
+Argentina,South America,2020-09-01,620000,13000
+Argentina,South America,2020-10-01,1060000,28000
+
+South Africa,Africa,2020-06-01,34000,705
+South Africa,Africa,2020-07-01,160000,2500
+South Africa,Africa,2020-08-01,520000,9000
+South Africa,Africa,2020-09-01,675000,16700
+South Africa,Africa,2020-10-01,690000,17600
+
+Australia,Oceania,2020-06-01,7200,102
+Australia,Oceania,2020-07-01,10400,128
+Australia,Oceania,2020-08-01,24000,350
+Australia,Oceania,2020-09-01,27000,750
+Australia,Oceania,2020-10-01,27500,900
